@@ -12,6 +12,8 @@ cd vral
 
 w3m vral.html
 
+to create and download,click to name virus and ENTER or DOUBLE CLICK to Name Virus
+and Click Enter again to Confirm Download
 to move the zip file,use root explore or :
 
 mv -f namefile.zip /sdcard
