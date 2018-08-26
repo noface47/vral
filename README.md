@@ -17,3 +17,5 @@ to move the zip file,use root explore or :
 mv -f namefile.zip /sdcard
 
 search your file zip in sdcard or internal memory
+
+*pleas dont Rebuild,Recode,Remake this Tool to Support Dev
